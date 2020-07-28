@@ -21,7 +21,7 @@ end
 # Each officeholder in the list
 class MembershipRow < WikipediaMembershipRow
   def columns
-    %w[_seat name party constituency _notes]
+    %w[_seat name party _constituency _notes]
   end
 
   field :election do
