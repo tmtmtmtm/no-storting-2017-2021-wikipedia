@@ -25,7 +25,7 @@ class MembershipRow < WikipediaMembershipRow
   end
 
   field :election do
-    'Q1475163'
+    'Q17018433'
   end
 end
 
